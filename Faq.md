@@ -19,6 +19,7 @@ order: 2
 9. [Ejection Policy](#9-ejection-policy)
 10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#10-self-healing-endorsement-network---vivapeer-evaluation-systempes)
 11. [Health Points and Breakout Sessions](#11-health-points-and-breakout-sessions)
+12. [Dashboard](#12-dashboard)
 
 ---
 
@@ -576,3 +577,10 @@ Announcements will be made in the Telegram channel when breakout rooms go live. 
 They are intended for informal discussions, doubt clarification, collaboration, and peer support amongst participants.
 
 ---
+
+## 12. Dashboard
+**12.1 Why is my dashboard not updated yet?**
+The dashboard is automated and will eventually update. Please wait until the next day as the scripts are programmed to rerun at the midnight for updation.
+
+**12.2 My submission is missing in the dashboard. What should I do?**
+Please ensure that you've submitted the forms required which you can find in the forms and link section in the cohort specific page. It is essential to submit as that is the place of verification for us and the scripts fetch for the dashboard.
